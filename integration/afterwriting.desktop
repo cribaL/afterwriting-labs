@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=afterwriting
+Comment=Screenwriting Application
+Exec=x-www-browser ~/.local/bin/afterwriting/afterwriting.html
+Icon=afterwriting
+Type=Application
+Categories=Utility;Publishing;
